@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "APICE",
+  "short_name": "APICE",
+  "version": "io.cordova.hellocordova",
+  "description": "une apication gélocalisée avec Cordova et vueJS",
+  "author": "Alexandra Kurowski pour le compte du GEGG",
+  "icons": [],
+  "start_url": "index.html"
+}
